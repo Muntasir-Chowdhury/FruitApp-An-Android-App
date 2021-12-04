@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="15dp"
+    tools:context=".Fragments.Fruits.StrawBerryFragment">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        app:cardCornerRadius="50dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/redbackground"
+            >
+
+
+            <ImageView
+                android:id="@+id/blueberry"
+                android:layout_width="0dp"
+
+                android:layout_height="206dp"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="136dp"
+                android:src="@drawable/strawberry"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+
+                app:layout_constraintTop_toTopOf="parent"
+
+
+                />
+
+            <TextView
+                android:id="@+id/blueberryboldtext"
+                android:layout_width="202dp"
+                android:layout_height="72dp"
+                android:layout_marginStart="100dp"
+                android:layout_marginTop="8dp"
+                android:text="Strawberry"
+                android:textColor="@color/white"
+                android:textSize="40sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/blueberry" />
+
+
+            <TextView
+                android:id="@+id/description"
+                android:layout_width="294dp"
+                android:layout_height="60dp"
+                android:layout_marginStart="44dp"
+                android:layout_marginTop="4dp"
+                android:text="Widely appreciated for its charecteristics aroma,red color,juicy texture and sweetness."
+                android:textColor="@color/white"
+                android:textAlignment="center"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/blueberryboldtext" />
+
+            <LinearLayout
+                android:id="@+id/layout_button1"
+                android:layout_width="121dp"
+                android:layout_height="66dp"
+                android:layout_marginStart="124dp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/hsbackground"
+                android:clickable="true"
+
+                android:orientation="horizontal"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/description" >
+
+
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="18dp"
+                    android:text="Start"
+                    android:textColor="@color/white"
+                    android:textSize="20sp" />
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="18dp"
+                    android:src="@drawable/ic_outline_arrow_circle_white" />
+            </LinearLayout>
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</FrameLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable-v24/fragment_border.xml" value="0.25435897435897437" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable-v24/greenbackground.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable-v24/ic_arrow_right.xml" value="0.140625" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable-v24/orangebackground.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable-v24/redbackground.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable-v24/shadow.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable/blueberrybackground.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable/hsbackground.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable/hsbackground2.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable/ic_baseline_arrow_forward_30.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable/ic_outline_info_24.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/drawable/switch_custom_color.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/layout/activity_main.xml" value="0.228125" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/layout/activity_main2.xml" value="0.228125" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/layout/activity_recycler_view.xml" value="0.2421875" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/layout/activity_row.xml" value="0.264" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/layout/activity_setting.xml" value="0.2571428571428571" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/layout/fragment_blue_berry.xml" value="0.1" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/layout/fragment_lemon.xml" value="0.2421875" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/layout/fragment_lime.xml" value="0.2421875" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/layout/fragment_plum.xml" value="0.2421875" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/layout/fragment_straw_berry.xml" value="0.2" />
+        <entry key="..\:/Users/muntasir/AndroidStudioProjects/ViewPager4/app/src/main/res/layout/my_row.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

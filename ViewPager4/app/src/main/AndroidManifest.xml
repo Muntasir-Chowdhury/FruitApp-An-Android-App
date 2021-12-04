@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.viewpager4">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_logo"
+        android:label="Fruit App"
+        android:roundIcon="@drawable/ic_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ViewPager4">
+        <activity
+            android:name=".screens.RowActivity"
+            android:exported="true" />
+        <activity
+            android:name=".screens.MainActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".screens.SettingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".screens.RecyclerViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".screens.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

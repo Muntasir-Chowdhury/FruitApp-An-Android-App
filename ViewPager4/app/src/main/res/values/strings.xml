@@ -1,0 +1,237 @@
+<resources>
+    <string name="app_name">ViewPager4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Fruit_name">
+        <item>Gooseberry</item>
+        <item>Plum</item>
+        <item>Mango</item>
+        <item>Pear</item>
+        <item>Grapefruit</item>
+        <item>Apple</item>
+        <item>Pomegranate</item>
+        <item>Lemon</item>
+        <item>Watermelon</item>
+    </string-array>
+    <string-array name="description">
+        <item>The Gooseberry is a subtropical citrus tree known for its relatively large, sour to semisweet, somewhat bitter fruit.</item>
+        <item>The Plum is a subtropical citrus tree known for its relatively large, sour to semisweet, somewhat bitter fruit.</item>
+        <item>The Mango is a subtropical citrus tree known for its relatively large, sour to semisweet, somewhat bitter fruit.</item>
+        <item>The Pear is a subtropical citrus tree known for its relatively large, sour to semisweet, somewhat bitter fruit.</item>
+        <item>The grapefruit is a subtropical citrus tree known for its relatively large, sour to semisweet, somewhat bitter fruit.</item>
+        <item>The Apple is a subtropical citrus tree known for its relatively large, sour to semisweet, somewhat bitter fruit.</item>
+        <item>The Pomegranate is a subtropical citrus tree known for its relatively large, sour to semisweet, somewhat bitter fruit.</item>
+        <item>The Lemon is a subtropical citrus tree known for its relatively large, sour to semisweet, somewhat bitter fruit.</item>
+        <item>The Watermelon is a subtropical citrus tree known for its relatively large, sour to semisweet, somewhat bitter fruit.</item>
+
+    </string-array>
+
+    <string-array name="long_description">
+        <item>The gooseberry, scientific name Mangiferaindica, is considered to be the king of all fruits. It is one of the most vital ancient fruits for humankind. In history, it is found that mangoes have always been prized in India and are the favorite most fruit of the nation.
+
+Mango is one of the fruits that finds its mention prominently in the old Sanskrit scriptures and literature. Pilgrims from China who traveled to India in the seventh century A.D have also spoken about the significance of this fruit.
+
+During the Mughal rule in India, mangoes were honored with real patronage. It is said that Lakh Bagh has one lakh mango tree planted in Bihar, Darbhanga, by the Mughal emperor Akbar.
+
+The Shalimar Garden of Lahore and Mughal Gardens located near Chandigarh, Pinjore are some of the mango orchards planted in that same period. These gardens are still preserved, and they prove the high esteem of this royal fruit from the past.
+
+In tropical and sub-tropical climates, mango is the most enjoyed fruit in summer.
+
+Several authorities have testified that mango was originated in the Indo Burma region. Mangoes are believed to be cultivated about four thousand years ago. It has a special place in people’s hearts and is interwoven with the folklore and rituals in India.
+
+Mangoes are useful, antique, and accessible. It has been at par with excellence for millions of years now. It is also the national fruit of India, and it has got its royal status because of its utility and beauty. Mangoes are righteously known as the “King” of fruits.
+
+Around 1869, grafted mangoes were taken from India to Florida, and much earlier, mangoes were introduced in Jamaica. From then onwards, this fruit is grown on a commercial level across the globe.
+
+The leading producers of mangoes are India, Pakistan, Mexico, China, Indonesia, Thailand, Bangladesh, Nigeria, Brazil, and the Philippines. India tops the list as it produces approximately 16.2 to 16.5 million tonnes of mangoes per year. The leading states in which the mangoes are grown are Uttar Pradesh, Jharkhand, Tamil Nadu, Andhra Pradesh, West Bengal, Maharashtra, Bihar, Kerala, Gujarat, and Karnataka. Uttar Pradesh produces almost 24% of the total mango count.
+
+India accounts for 42% of the mango production throughout the world, and henceforth, the export of this fruit has bright prospects. There is a flourishing trade of bottled mango juices, canned mango slices, and other mango products.</item>
+        <item>The plum, scientific name Mangiferaindica, is considered to be the king of all fruits. It is one of the most vital ancient fruits for humankind. In history, it is found that mangoes have always been prized in India and are the favorite most fruit of the nation.
+
+Mango is one of the fruits that finds its mention prominently in the old Sanskrit scriptures and literature. Pilgrims from China who traveled to India in the seventh century A.D have also spoken about the significance of this fruit.
+
+During the Mughal rule in India, mangoes were honored with real patronage. It is said that Lakh Bagh has one lakh mango tree planted in Bihar, Darbhanga, by the Mughal emperor Akbar.
+
+The Shalimar Garden of Lahore and Mughal Gardens located near Chandigarh, Pinjore are some of the mango orchards planted in that same period. These gardens are still preserved, and they prove the high esteem of this royal fruit from the past.
+
+In tropical and sub-tropical climates, mango is the most enjoyed fruit in summer.
+
+Several authorities have testified that mango was originated in the Indo Burma region. Mangoes are believed to be cultivated about four thousand years ago. It has a special place in people’s hearts and is interwoven with the folklore and rituals in India.
+
+Mangoes are useful, antique, and accessible. It has been at par with excellence for millions of years now. It is also the national fruit of India, and it has got its royal status because of its utility and beauty. Mangoes are righteously known as the “King” of fruits.
+
+Around 1869, grafted mangoes were taken from India to Florida, and much earlier, mangoes were introduced in Jamaica. From then onwards, this fruit is grown on a commercial level across the globe.
+
+The leading producers of mangoes are India, Pakistan, Mexico, China, Indonesia, Thailand, Bangladesh, Nigeria, Brazil, and the Philippines. India tops the list as it produces approximately 16.2 to 16.5 million tonnes of mangoes per year. The leading states in which the mangoes are grown are Uttar Pradesh, Jharkhand, Tamil Nadu, Andhra Pradesh, West Bengal, Maharashtra, Bihar, Kerala, Gujarat, and Karnataka. Uttar Pradesh produces almost 24% of the total mango count.
+
+India accounts for 42% of the mango production throughout the world, and henceforth, the export of this fruit has bright prospects. There is a flourishing trade of bottled mango juices, canned mango slices, and other mango products.</item>
+        <item>The mango, scientific name Mangiferaindica, is considered to be the king of all fruits. It is one of the most vital ancient fruits for humankind. In history, it is found that mangoes have always been prized in India and are the favorite most fruit of the nation.
+
+Mango is one of the fruits that finds its mention prominently in the old Sanskrit scriptures and literature. Pilgrims from China who traveled to India in the seventh century A.D have also spoken about the significance of this fruit.
+
+During the Mughal rule in India, mangoes were honored with real patronage. It is said that Lakh Bagh has one lakh mango tree planted in Bihar, Darbhanga, by the Mughal emperor Akbar.
+
+The Shalimar Garden of Lahore and Mughal Gardens located near Chandigarh, Pinjore are some of the mango orchards planted in that same period. These gardens are still preserved, and they prove the high esteem of this royal fruit from the past.
+
+In tropical and sub-tropical climates, mango is the most enjoyed fruit in summer.
+
+Several authorities have testified that mango was originated in the Indo Burma region. Mangoes are believed to be cultivated about four thousand years ago. It has a special place in people’s hearts and is interwoven with the folklore and rituals in India.
+
+Mangoes are useful, antique, and accessible. It has been at par with excellence for millions of years now. It is also the national fruit of India, and it has got its royal status because of its utility and beauty. Mangoes are righteously known as the “King” of fruits.
+
+Around 1869, grafted mangoes were taken from India to Florida, and much earlier, mangoes were introduced in Jamaica. From then onwards, this fruit is grown on a commercial level across the globe.
+
+The leading producers of mangoes are India, Pakistan, Mexico, China, Indonesia, Thailand, Bangladesh, Nigeria, Brazil, and the Philippines. India tops the list as it produces approximately 16.2 to 16.5 million tonnes of mangoes per year. The leading states in which the mangoes are grown are Uttar Pradesh, Jharkhand, Tamil Nadu, Andhra Pradesh, West Bengal, Maharashtra, Bihar, Kerala, Gujarat, and Karnataka. Uttar Pradesh produces almost 24% of the total mango count.
+
+India accounts for 42% of the mango production throughout the world, and henceforth, the export of this fruit has bright prospects. There is a flourishing trade of bottled mango juices, canned mango slices, and other mango products.</item>
+        <item>The pear, scientific name Mangiferaindica, is considered to be the king of all fruits. It is one of the most vital ancient fruits for humankind. In history, it is found that mangoes have always been prized in India and are the favorite most fruit of the nation.
+
+Mango is one of the fruits that finds its mention prominently in the old Sanskrit scriptures and literature. Pilgrims from China who traveled to India in the seventh century A.D have also spoken about the significance of this fruit.
+
+During the Mughal rule in India, mangoes were honored with real patronage. It is said that Lakh Bagh has one lakh mango tree planted in Bihar, Darbhanga, by the Mughal emperor Akbar.
+
+The Shalimar Garden of Lahore and Mughal Gardens located near Chandigarh, Pinjore are some of the mango orchards planted in that same period. These gardens are still preserved, and they prove the high esteem of this royal fruit from the past.
+
+In tropical and sub-tropical climates, mango is the most enjoyed fruit in summer.
+
+Several authorities have testified that mango was originated in the Indo Burma region. Mangoes are believed to be cultivated about four thousand years ago. It has a special place in people’s hearts and is interwoven with the folklore and rituals in India.
+
+Mangoes are useful, antique, and accessible. It has been at par with excellence for millions of years now. It is also the national fruit of India, and it has got its royal status because of its utility and beauty. Mangoes are righteously known as the “King” of fruits.
+
+Around 1869, grafted mangoes were taken from India to Florida, and much earlier, mangoes were introduced in Jamaica. From then onwards, this fruit is grown on a commercial level across the globe.
+
+The leading producers of mangoes are India, Pakistan, Mexico, China, Indonesia, Thailand, Bangladesh, Nigeria, Brazil, and the Philippines. India tops the list as it produces approximately 16.2 to 16.5 million tonnes of mangoes per year. The leading states in which the mangoes are grown are Uttar Pradesh, Jharkhand, Tamil Nadu, Andhra Pradesh, West Bengal, Maharashtra, Bihar, Kerala, Gujarat, and Karnataka. Uttar Pradesh produces almost 24% of the total mango count.
+
+India accounts for 42% of the mango production throughout the world, and henceforth, the export of this fruit has bright prospects. There is a flourishing trade of bottled mango juices, canned mango slices, and other mango products.</item>
+        <item>The grapefruit, scientific name Mangiferaindica, is considered to be the king of all fruits. It is one of the most vital ancient fruits for humankind. In history, it is found that mangoes have always been prized in India and are the favorite most fruit of the nation.
+
+Mango is one of the fruits that finds its mention prominently in the old Sanskrit scriptures and literature. Pilgrims from China who traveled to India in the seventh century A.D have also spoken about the significance of this fruit.
+
+During the Mughal rule in India, mangoes were honored with real patronage. It is said that Lakh Bagh has one lakh mango tree planted in Bihar, Darbhanga, by the Mughal emperor Akbar.
+
+The Shalimar Garden of Lahore and Mughal Gardens located near Chandigarh, Pinjore are some of the mango orchards planted in that same period. These gardens are still preserved, and they prove the high esteem of this royal fruit from the past.
+
+In tropical and sub-tropical climates, mango is the most enjoyed fruit in summer.
+
+Several authorities have testified that mango was originated in the Indo Burma region. Mangoes are believed to be cultivated about four thousand years ago. It has a special place in people’s hearts and is interwoven with the folklore and rituals in India.
+
+Mangoes are useful, antique, and accessible. It has been at par with excellence for millions of years now. It is also the national fruit of India, and it has got its royal status because of its utility and beauty. Mangoes are righteously known as the “King” of fruits.
+
+Around 1869, grafted mangoes were taken from India to Florida, and much earlier, mangoes were introduced in Jamaica. From then onwards, this fruit is grown on a commercial level across the globe.
+
+The leading producers of mangoes are India, Pakistan, Mexico, China, Indonesia, Thailand, Bangladesh, Nigeria, Brazil, and the Philippines. India tops the list as it produces approximately 16.2 to 16.5 million tonnes of mangoes per year. The leading states in which the mangoes are grown are Uttar Pradesh, Jharkhand, Tamil Nadu, Andhra Pradesh, West Bengal, Maharashtra, Bihar, Kerala, Gujarat, and Karnataka. Uttar Pradesh produces almost 24% of the total mango count.
+
+India accounts for 42% of the mango production throughout the world, and henceforth, the export of this fruit has bright prospects. There is a flourishing trade of bottled mango juices, canned mango slices, and other mango products.</item>
+        <item>The apple, scientific name Mangiferaindica, is considered to be the king of all fruits. It is one of the most vital ancient fruits for humankind. In history, it is found that mangoes have always been prized in India and are the favorite most fruit of the nation.
+
+Mango is one of the fruits that finds its mention prominently in the old Sanskrit scriptures and literature. Pilgrims from China who traveled to India in the seventh century A.D have also spoken about the significance of this fruit.
+
+During the Mughal rule in India, mangoes were honored with real patronage. It is said that Lakh Bagh has one lakh mango tree planted in Bihar, Darbhanga, by the Mughal emperor Akbar.
+
+The Shalimar Garden of Lahore and Mughal Gardens located near Chandigarh, Pinjore are some of the mango orchards planted in that same period. These gardens are still preserved, and they prove the high esteem of this royal fruit from the past.
+
+In tropical and sub-tropical climates, mango is the most enjoyed fruit in summer.
+
+Several authorities have testified that mango was originated in the Indo Burma region. Mangoes are believed to be cultivated about four thousand years ago. It has a special place in people’s hearts and is interwoven with the folklore and rituals in India.
+
+Mangoes are useful, antique, and accessible. It has been at par with excellence for millions of years now. It is also the national fruit of India, and it has got its royal status because of its utility and beauty. Mangoes are righteously known as the “King” of fruits.
+
+Around 1869, grafted mangoes were taken from India to Florida, and much earlier, mangoes were introduced in Jamaica. From then onwards, this fruit is grown on a commercial level across the globe.
+
+The leading producers of mangoes are India, Pakistan, Mexico, China, Indonesia, Thailand, Bangladesh, Nigeria, Brazil, and the Philippines. India tops the list as it produces approximately 16.2 to 16.5 million tonnes of mangoes per year. The leading states in which the mangoes are grown are Uttar Pradesh, Jharkhand, Tamil Nadu, Andhra Pradesh, West Bengal, Maharashtra, Bihar, Kerala, Gujarat, and Karnataka. Uttar Pradesh produces almost 24% of the total mango count.
+
+India accounts for 42% of the mango production throughout the world, and henceforth, the export of this fruit has bright prospects. There is a flourishing trade of bottled mango juices, canned mango slices, and other mango products.</item>
+        <item>The pomegranate, scientific name Mangiferaindica, is considered to be the king of all fruits. It is one of the most vital ancient fruits for humankind. In history, it is found that mangoes have always been prized in India and are the favorite most fruit of the nation.
+
+Mango is one of the fruits that finds its mention prominently in the old Sanskrit scriptures and literature. Pilgrims from China who traveled to India in the seventh century A.D have also spoken about the significance of this fruit.
+
+During the Mughal rule in India, mangoes were honored with real patronage. It is said that Lakh Bagh has one lakh mango tree planted in Bihar, Darbhanga, by the Mughal emperor Akbar.
+
+The Shalimar Garden of Lahore and Mughal Gardens located near Chandigarh, Pinjore are some of the mango orchards planted in that same period. These gardens are still preserved, and they prove the high esteem of this royal fruit from the past.
+
+In tropical and sub-tropical climates, mango is the most enjoyed fruit in summer.
+
+Several authorities have testified that mango was originated in the Indo Burma region. Mangoes are believed to be cultivated about four thousand years ago. It has a special place in people’s hearts and is interwoven with the folklore and rituals in India.
+
+Mangoes are useful, antique, and accessible. It has been at par with excellence for millions of years now. It is also the national fruit of India, and it has got its royal status because of its utility and beauty. Mangoes are righteously known as the “King” of fruits.
+
+Around 1869, grafted mangoes were taken from India to Florida, and much earlier, mangoes were introduced in Jamaica. From then onwards, this fruit is grown on a commercial level across the globe.
+
+The leading producers of mangoes are India, Pakistan, Mexico, China, Indonesia, Thailand, Bangladesh, Nigeria, Brazil, and the Philippines. India tops the list as it produces approximately 16.2 to 16.5 million tonnes of mangoes per year. The leading states in which the mangoes are grown are Uttar Pradesh, Jharkhand, Tamil Nadu, Andhra Pradesh, West Bengal, Maharashtra, Bihar, Kerala, Gujarat, and Karnataka. Uttar Pradesh produces almost 24% of the total mango count.
+
+India accounts for 42% of the mango production throughout the world, and henceforth, the export of this fruit has bright prospects. There is a flourishing trade of bottled mango juices, canned mango slices, and other mango products.</item>
+        <item>The lemon,           scientific name Mangiferaindica, is considered to be the king of all fruits. It is one of the most vital ancient fruits for humankind. In history, it is found that mangoes have always been prized in India and are the favorite most fruit of the nation.
+
+Mango is one of the fruits that finds its mention prominently in the old Sanskrit scriptures and literature. Pilgrims from China who traveled to India in the seventh century A.D have also spoken about the significance of this fruit.
+
+During the Mughal rule in India, mangoes were honored with real patronage. It is said that Lakh Bagh has one lakh mango tree planted in Bihar, Darbhanga, by the Mughal emperor Akbar.
+
+The Shalimar Garden of Lahore and Mughal Gardens located near Chandigarh, Pinjore are some of the mango orchards planted in that same period. These gardens are still preserved, and they prove the high esteem of this royal fruit from the past.
+
+In tropical and sub-tropical climates, mango is the most enjoyed fruit in summer.
+
+Several authorities have testified that mango was originated in the Indo Burma region. Mangoes are believed to be cultivated about four thousand years ago. It has a special place in people’s hearts and is interwoven with the folklore and rituals in India.
+
+Mangoes are useful, antique, and accessible. It has been at par with excellence for millions of years now. It is also the national fruit of India, and it has got its royal status because of its utility and beauty. Mangoes are righteously known as the “King” of fruits.
+
+Around 1869, grafted mangoes were taken from India to Florida, and much earlier, mangoes were introduced in Jamaica. From then onwards, this fruit is grown on a commercial level across the globe.
+
+The leading producers of mangoes are India, Pakistan, Mexico, China, Indonesia, Thailand, Bangladesh, Nigeria, Brazil, and the Philippines. India tops the list as it produces approximately 16.2 to 16.5 million tonnes of mangoes per year. The leading states in which the mangoes are grown are Uttar Pradesh, Jharkhand, Tamil Nadu, Andhra Pradesh, West Bengal, Maharashtra, Bihar, Kerala, Gujarat, and Karnataka. Uttar Pradesh produces almost 24% of the total mango count.
+
+India accounts for 42% of the mango production throughout the world, and henceforth, the export of this fruit has bright prospects. There is a flourishing trade of bottled mango juices, canned mango slices, and other mango products.</item>
+        <item>The watermelon,           scientific name Mangiferaindica, is considered to be the king of all fruits. It is one of the most vital ancient fruits for humankind. In history, it is found that mangoes have always been prized in India and are the favorite most fruit of the nation.
+
+Mango is one of the fruits that finds its mention prominently in the old Sanskrit scriptures and literature. Pilgrims from China who traveled to India in the seventh century A.D have also spoken about the significance of this fruit.
+
+During the Mughal rule in India, mangoes were honored with real patronage. It is said that Lakh Bagh has one lakh mango tree planted in Bihar, Darbhanga, by the Mughal emperor Akbar.
+
+The Shalimar Garden of Lahore and Mughal Gardens located near Chandigarh, Pinjore are some of the mango orchards planted in that same period. These gardens are still preserved, and they prove the high esteem of this royal fruit from the past.
+
+In tropical and sub-tropical climates, mango is the most enjoyed fruit in summer.
+
+Several authorities have testified that mango was originated in the Indo Burma region. Mangoes are believed to be cultivated about four thousand years ago. It has a special place in people’s hearts and is interwoven with the folklore and rituals in India.
+
+Mangoes are useful, antique, and accessible. It has been at par with excellence for millions of years now. It is also the national fruit of India, and it has got its royal status because of its utility and beauty. Mangoes are righteously known as the “King” of fruits.
+
+Around 1869, grafted mangoes were taken from India to Florida, and much earlier, mangoes were introduced in Jamaica. From then onwards, this fruit is grown on a commercial level across the globe.
+
+The leading producers of mangoes are India, Pakistan, Mexico, China, Indonesia, Thailand, Bangladesh, Nigeria, Brazil, and the Philippines. India tops the list as it produces approximately 16.2 to 16.5 million tonnes of mangoes per year. The leading states in which the mangoes are grown are Uttar Pradesh, Jharkhand, Tamil Nadu, Andhra Pradesh, West Bengal, Maharashtra, Bihar, Kerala, Gujarat, and Karnataka. Uttar Pradesh produces almost 24% of the total mango count.
+
+India accounts for 42% of the mango production throughout the world, and henceforth, the export of this fruit has bright prospects. There is a flourishing trade of bottled mango juices, canned mango slices, and other mango products.</item>
+    </string-array>
+
+
+
+    <string name="temp_description">Five years have passed since the attacks on the minority community in Nasirnagar, Brahmanbaria, over allegations of hurting religious sentiment through a Facebook post.
+
+On 30 October 2016, a total of 15 Hindu temples and over 300 houses were attacked, torched and looted centering the Facebook post allegedly uploaded by a certain Rasraj Das.
+
+Of the eight cases filed over the incident, charge sheet was submitted in only one case 13 months since the incident. The remaining seven cases have seen changes of 30 investigating officers.
+
+An allegation was raised against Rasraj, a resident of Horinber village under Haripur union of the upazila and fisherman, saying that he posted a picture on Facebook a day before the attacks that hurt religious sentiment. Police detained him that very day. Yet, ‘Ahle Sunnat Wal Jamaat’ and ‘Khati Ahle Sunnat Wal Jamaat’ still called protest programmes. The attacks were carried out later.
+
+Rasraj’s lawyer Nasir Mia said that 102 hearing dates have been fixed in the case filed against Rasraj under the ICT Act. He told Prothom Alo that a hearing date has been fixed today.
+
+Police Bureau of Investigation (PBI) has submitted forensic reports of Rasraj’s Facebook, mobile phone and memory card where they found no evidence of his involvement. Yet, the case against him saw no headway.
+
+Some incidents of attack on minority communities took place before and after the Nasirnagar incident centering Facebook posts. On 17 October, Hindu community people’s houses were attacked, vandalised and set afire on allegations of hurting religious sentiment on Facebook.
+
+Local police sources said seven cases were filed over attacks on Dattabari temple, Gouramadir of Kashipara, for arson on Chotto Lal Das’ house in Chengapara, on two houses in Pashchimpara and Banikpara and on former upazila vice chairman Anjan Kumar Deb’s house and another case was filed for the attack on Rasraj Das’ house.
+
+Besides, sub inspector Kawsar Husain filed a case against Rasraj under ICT act for hurting religious sentiment. Inspector of district Detective Branch (DB) of police Iqbal Hossain is now investigating the case. He is the fourth investigating officer of the case.
+
+Prothom Alo has talked with five investigating officers of six cases. They said the investigation is going on and depositions of some of the witnesses are yet to be taken. They also said chemical evidence of the arson case is being collected.
+
+The charge sheet would be given once the investigation is completed, the IOs said.
+
+Earlier on 10 December 2017, police accused 228 persons in the charge-sheet submitted over vandalism at Mohakalpara Gouramandir. Local union parishad chairman, leaders of Awami League and BNP were named in the charge-sheet. A total of 104 persons were arrested in the case and all of them were freed on bail. The trial of this case is yet to begin.
+
+Police officials said the picture uploaded from Rasraj’s Facebook ID was saved at a local cyber centre named Al Amin Cyber Point and Studio at Horinber village. A certain Jahangir Mia of Horipur saved the picture. Police seized two hard discs, two pen drives and a mobile phone from Jahangir’s shop at the behest of the court. Jahangir gave a confessional statement under Section 164.
+
+Plaintiff of one of the cases Anjan Kumar Deb said, “Police came for investigation five years ago, a week after the incident. No one contacted us later. Only two days ago, two policemen contacted me after five years. Such is the progess of the case.”
+
+Rasraj’s lawyer Nasir Mia thinks that the investigation is being unnecessarily delayed.
+
+Superintendent of Brahmanbaria police Anisur Rahman said, the investigation of the seven cases are at the final stage and police will submit the charge sheets soon.</string>
+
+</resources>
